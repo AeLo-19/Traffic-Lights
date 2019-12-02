@@ -11,3 +11,41 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.luz{
+    width: 90px;
+    height: 90px;
+    // -moz-border-radius: 50%;
+    // -webkit-border-radius: 50%;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.verde{
+    background-color: green
+}
+
+.amarillo{
+    background-color: yellow
+}
+
+.rojo{
+    background-color: red
+}
+
+.box{
+    margin-left: 25px ;
+    margin-top: 20px ;
+    border-radius: 20px;
+    width: 130px;
+    height: 300px;
+    background-color: rgb(15, 15, 15)
+}
+
+.poste{
+    display: flex;
+    width: 30px;
+    height: 150px;
+    background-color: rgb(15, 15, 15);
+    margin-left: 75px;
+}
